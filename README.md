@@ -65,3 +65,8 @@ I have not implemented the remaining methods (interrupts, event callbacks, etc) 
 - copy the RPi folder inside your python3.x modules folder (e.g. /usr/lib/python3.x/ )
 
 - copy the GPIOSim.py file where you like, chmod +x it and run it :)
+
+
+**** License ****
+
+See LICENSE file

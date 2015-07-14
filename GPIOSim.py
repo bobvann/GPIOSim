@@ -9,7 +9,10 @@
 # https://github.com/bobvann/GPIOSim
 # 
 # Requires Python 3
-
+#
+#
+# License https://raw.githubusercontent.com/bobvann/RPirrigate/master/LICENSE
+#
 
 
 from tkinter import Tk, Canvas, Frame, BOTH, Menu, Label, PhotoImage
